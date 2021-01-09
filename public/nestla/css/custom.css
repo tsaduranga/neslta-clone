@@ -1,0 +1,253 @@
+.marleft20
+{
+    margin-left:20px !important;
+}
+
+.martop0
+{
+    margin-top:0px !important;
+}
+.martop10
+{
+    margin-top:10px !important;
+}
+
+.marbtm10
+{
+    margin-bottom:10px !important;
+}
+
+.martop20
+{
+    margin-top:20px !important;
+}
+
+.martop60
+{
+    margin-top:60px !important;
+}
+
+.martop70
+{
+    margin-top:70px !important;
+}
+
+.martop75
+{
+    margin-top:75px !important;
+}
+
+.martop80
+{
+    margin-top:80px !important;
+}
+
+.pad50-bottom
+{
+    padding-bottom: 50px !important;
+}
+
+.pad0-top
+{
+    padding-top: 0px !important;
+}
+
+.pad95-0-top-bottom {
+    padding: 95px 0px 0px !important;
+}
+
+.pad0-0-top-bottom {
+    padding: 0px 0px 0px;
+}
+
+.pad70-0-top-bottom {
+    padding: 70px 0px 0px;
+}
+
+.pad95-30-top-bottom {
+    padding: 95px 0px 30px;
+}
+
+.pad30-top-bottom {
+    padding: 30px 0px;
+}
+.yellow-background table
+{
+    color: #000 ;
+}
+
+.yellow-background table td
+{
+    font-size: 19px;
+}
+
+.yellow-background table td b
+{
+    font-weight: 700 !important;
+}
+
+
+p.fnt-15 {
+    font-size: 15px;
+}
+
+p.fnt-14 {
+    font-size: 14px;
+}
+
+.color-1
+{
+    color: #F7AD41
+}
+
+.text-bold
+{
+    font-weight: 500 !important;
+}
+
+.btn
+{
+    border-radius: 0px !important;
+}
+
+.investment-section
+{
+    background: url("../images/home-2-back.jpg") no-repeat center 170px ;
+}
+
+b
+{
+    font-weight: 500 !important;
+}
+
+.hight-level-section h4
+{
+    font-size: 23px;
+}
+
+.havequestion_01
+{
+    border-radius: 15px;
+    transform: skew(-12deg);
+}
+
+.havequestion_01 *, .havequestion_01 a
+{
+    transform: skew(12deg);
+}
+
+.btn-default
+{
+    border: none !important;
+}
+
+.btn-inverse
+{
+    background: #222;
+    color: #fff
+}
+
+.testi-back
+{
+    background: url("../images/testi-back.jpg") no-repeat;
+    background-size: cover;
+}
+
+.home3_testimonial
+{
+    padding-bottom: 0px !important;
+}
+
+.h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small
+{
+    color: #333;
+    font-weight: 300;
+}
+
+.office-info-col small
+{
+    color: #bbb
+}
+
+.h-title-3:before
+{
+    content:"";
+    vertical-align: middle;
+    display: inline-block;
+    border-bottom: solid 1px #F7AD41;
+    width: 80px;
+    margin-right: 10px;
+}
+
+.h-title-2:after, .h-title-3:after
+{
+    content:"";
+    vertical-align: middle;
+    display: inline-block;
+    border-bottom: solid 1px #F7AD41;
+    width: 80px;
+    margin-left: 10px;
+    
+}
+
+.form-block {
+    padding: 50px 50px;
+    background: rgba(0, 0, 0, 0.8);
+    -webkit-box-shadow: 0px 0px 51px 2px rgba(0,0,0,0.85);
+    -moz-box-shadow: 0px 0px 51px 2px rgba(0,0,0,0.85);
+    box-shadow: 0px 0px 51px 2px rgba(0,0,0,0.85);
+    color: #fff
+
+}
+
+.form-block a:link, .form-block a:visited
+{
+    color: #FCAD50
+}
+
+.form-block h3, .form-block h4, .form-block p {
+    color: #fff
+}
+
+.form-block label {
+    color: white !important;
+    font-weight: 300;
+}
+
+.form-block input {
+    border-radius: 0px !important;
+    background: rgba(255,255,255,0.7);
+    color: #000;
+    border: none !important;
+}
+
+.color-white
+{
+    color: #fff !important;
+}
+
+.button.home-link {
+    color: #FCAD50;
+    outline: none;
+    border: 0;
+}
+
+
+.calculator .input-group-addon
+{
+    padding: 6px 10px;
+   width:auto;
+}
+
+.calculator .input-group
+{
+    width: auto;
+    margin: 0 auto;
+}
+
+select {
+    border: 1px ridge rgb(169, 169, 169);
+}
+
+
+
